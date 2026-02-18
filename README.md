@@ -1,16 +1,16 @@
-<br>
+<h2 style="display: flex; align-items: center; gap: 10px;">
+  About me
+  <img src="asset/until-then-crop.gif" width="45px" style="border-radius: 8px;" />
+</h2>
 
-<h2>About me</h2>
-
-<p align="left">
-  I am a full stack developer 
+<p>
+  I am a full stack developer.  
   I’m currently building cool stuff with React, Next.js, and Node.js.  
   Exploring AI, automation, and clean system design.  
   Always learning. Always shipping.  
-  Until then… .
+  Until then…
 </p>
 
-<br clear="left"/>
 
 
 <p align="left">
