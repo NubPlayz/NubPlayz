@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=NubPlayz&label=Profile%20views&color=7F3FBF&style=flat" />
+  <img src="https://img.shields.io/github/stars/NubPlayz?label=Stars&style=flat&color=E440FF" />
+  <a href="mailto:scriptouroboros@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-scriptouroboros@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+
 <!--
 **NubPlayz/NubPlayz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
