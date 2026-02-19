@@ -1,6 +1,6 @@
 <h2 style="display: flex; align-items: center; gap: 10px;">
   About me
-  <img src="asset/until-then-crop.gif" width="45px" style="border-radius: 8px;" />
+ 
 </h2>
 
 <p>
