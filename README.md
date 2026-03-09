@@ -24,7 +24,6 @@
 
 <h2>
   Some Tools I Use 
-  <img src="asset/amaze.gif" width="40px" style="vertical-align: middle; margin-left: 10px;">
 </h2>
 
 <p align="center">
