@@ -21,6 +21,15 @@
 </a>
 </p>
 
+<p align="center">
+
+[![X](https://img.shields.io/badge/@LilChimmp-161b22?logo=x&logoColor=white&labelColor=000000&style=flat)](https://x.com/LilChimmp)
+[![Reddit](https://img.shields.io/badge/u%2FMiserable__Advice1986-161b22?logo=reddit&logoColor=white&labelColor=FF4500&style=flat)](https://www.reddit.com/user/Miserable_Advice1986/)
+[![YouTube](https://img.shields.io/badge/lilChimpChamp-161b22?logo=youtube&logoColor=white&labelColor=FF0000&style=flat)](https://youtube.com/@lilChimpChamp)
+[![Discord](https://img.shields.io/badge/nubplayz007-161b22?logo=discord&logoColor=white&labelColor=5865F2&style=flat)](https://discord.com/users/1486064432760094722)
+
+</p>
+
 
 <h2>
   Some Tools I Use 
