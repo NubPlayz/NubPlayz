@@ -12,7 +12,10 @@
 </p>
 
 
-
+<h1 style="display: flex; align-items: center; gap: 10px;">
+  My Socials
+ 
+</h1>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=NubPlayz&label=Profile%20views&color=7F3FBF&style=flat" />
   <img src="https://img.shields.io/github/stars/NubPlayz?label=Stars&style=flat&color=E440FF" />
@@ -22,12 +25,10 @@
 </p>
 
 <p align="center">
-
-[![X](https://img.shields.io/badge/@LilChimmp-161b22?logo=x&logoColor=white&labelColor=000000&style=flat)](https://x.com/LilChimmp)
-[![Reddit](https://img.shields.io/badge/u%2FMiserable__Advice1986-161b22?logo=reddit&logoColor=white&labelColor=FF4500&style=flat)](https://www.reddit.com/user/Miserable_Advice1986/)
-[![YouTube](https://img.shields.io/badge/lilChimpChamp-161b22?logo=youtube&logoColor=white&labelColor=FF0000&style=flat)](https://youtube.com/@lilChimpChamp)
-[![Discord](https://img.shields.io/badge/nubplayz007-161b22?logo=discord&logoColor=white&labelColor=5865F2&style=flat)](https://discord.com/users/1486064432760094722)
-
+  <a href="https://x.com/LilChimmp"><img height="90" src="https://img.shields.io/badge/@LilChimmp-161b22?logo=x&logoColor=white&labelColor=000000&style=flat"/></a>
+  <a href="https://www.reddit.com/user/Miserable_Advice1986/"><img height="30" src="https://img.shields.io/badge/u%2FMiserable__Advice1986-161b22?logo=reddit&logoColor=white&labelColor=FF4500&style=flat"/></a>
+  <a href="https://youtube.com/@lilChimpChamp"><img height="30" src="https://img.shields.io/badge/lilChimpChamp-161b22?logo=youtube&logoColor=white&labelColor=FF0000&style=flat"/></a>
+  <a href="https://discord.com/users/1486064432760094722"><img height="30" src="https://img.shields.io/badge/nubplayz007-161b22?logo=discord&logoColor=white&labelColor=5865F2&style=flat"/></a>
 </p>
 
 
