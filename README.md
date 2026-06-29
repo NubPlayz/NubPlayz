@@ -25,7 +25,22 @@
   <a href="https://nubplayz-portfolio.vercel.app">
     NubPlayz's Portfolio
   </a>
+
 </div>
+
+<h2> <img width="70" height="90" alt="image" src="https://github.com/user-attachments/assets/afc801cd-cf11-4dd2-bc4b-964a3c774aa7" /> Indie Game release! (free, Made in Godot) 
+</h2> 
+<div>
+  <h3>"Poor Man's Card Battler" is live on Itch.io</h3>
+  <p> <img width="485" height="565" alt="image" src="https://github.com/user-attachments/assets/c04caf89-c106-448b-ba72-1d3214e8289f" />
+</p>
+  <p>  This is our first game  under the series of "Poor Man's game" where we try to faith fully recreate classic games  which are well like and more importantly enjoyed by us too!
+
+In this Series of Poor Man's Game #1 , we try to recreate the "A roguelike card-based dungeon crawler with puzzle and strategy elements" in a 3x3 grid. </p>
+<p>Itch.io - <a href="https://kalpa-interactive.itch.io/holotile-poor-mans-card-battler">Link </a></p>
+</div>
+
+
 
 <h1 style="display: flex; align-items: center; gap: 10px;">
   My Socials
@@ -43,11 +58,11 @@
 </p>
 
 </h1>
-<p>Beyond coding, I spend most of my free time reading books, especially horror, science fiction, and fantasy, and getting humbled by souls like games. If you'd like to chat about books, games, open source projects, or anything I'm building, feel free to reach out via email or Twitter. I've also linked all my socials below, where I regularly share updates on my projects and experiments.
+<p>Beyond coding, I spend most of my free time reading books, especially horror, science fiction, and fantasy, or playing games such as  souls like games. If you'd like to chat about books, games, open source projects, or anything I'm building, feel free to reach out via email or Twitter. I've also linked all my socials below, where I regularly share updates on my projects and stuff.
 
-At the moment, my current favorite book is *The Will of the Many* by James Islington. Some of my all time favorites include *Hyperion* by Dan Simmons, *The Miracles of the Namiya General Store* by Keigo Higashino, and *Goth* by Otsuichi.
+ my current favorite book is *The Will of the Many* by James Islington.  my all time favorites are *Hyperion* by Dan Simmons, *The Miracles of the Namiya General Store* by Keigo Higashino, and *Goth* by Otsuichi.
 
-As for games, *Sekiro: Shadows Die Twice* and *To the Moon* remain two of my absolute favorites, one for its relentless challenge and the other for its unforgettable story.
+ *Sekiro: Shadows Die Twice* and *To the Moon* are my favorite games.
  </p>
 
 <p align="center">
