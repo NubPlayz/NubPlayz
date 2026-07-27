@@ -9,8 +9,14 @@
   Exploring AI, automation, and clean system design.  
   Always learning. Always shipping.  
   Until then…
-</p>
 
+<br>
+
+- Reached **10,000+ users** across open-source projects.
+- Generated **500,000+ impressions** across YouTube , X(Twitter) and Reddit.
+- Released my first Indie game, built with **Godot**.
+
+</p>
 
 <div>
   My Portfolio Site -
@@ -19,6 +25,7 @@
   </a>
 
 </div>
+
 <br>
 
 <p>   
@@ -34,10 +41,17 @@
   <h3>"Poor Man's Card Battler" is live on Itch.io</h3>
   <p> <img width="485" height="565" alt="image" src="https://github.com/user-attachments/assets/c04caf89-c106-448b-ba72-1d3214e8289f" />
 </p>
+
+  <p>Itch.io - <a href="https://kalpa-interactive.itch.io/holotile-poor-mans-card-battler">Link </a></p>
   <p>  This is our first game  under the series of "Poor Man's game" where we try to faith fully recreate classic games  which are well like and more importantly enjoyed by us too!
 
 In this Series of Poor Man's Game #1 , we try to recreate the "A roguelike card-based dungeon crawler with puzzle and strategy elements" in a 3x3 grid. </p>
-<p>Itch.io - <a href="https://kalpa-interactive.itch.io/holotile-poor-mans-card-battler">Link </a></p>
+
+<p>This is the first playable release. We wanted to have a game finished i,e MVP version of it before being stuck by Scope-creep or development hell
+</p>
+<p align="center">"A work is never finished , only abandoned." - Paul Valéry</p>
+
+
 </div>
 
 
