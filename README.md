@@ -81,8 +81,7 @@ In this Series of Poor Man's Game #1 , we try to recreate the "A roguelike card-
   <a href="https://x.com/LilChimmp"><img height="30" src="https://img.shields.io/badge/@LilChimmp-161b22?logo=x&logoColor=white&labelColor=000000&style=flat"/></a>
   <a href="https://youtube.com/@lilChimpChamp"><img height="30" src="https://img.shields.io/badge/lilChimpChamp-161b22?logo=youtube&logoColor=white&labelColor=FF0000&style=flat"/></a>
   <a href="https://bsky.app/profile/lilchimp.bsky.social"><img height="30" src="https://img.shields.io/badge/@lilchimp.bsky.social-161b22?logo=bluesky&logoColor=white&labelColor=0285FF&style=flat"/></a>
-  <a href="https://www.reddit.com/user/Miserable_Advice1986/"><img height="30" src="https://img.shields.io/badge/u%2FMiserable__Advice1986-161b22?logo=reddit&logoColor=white&labelColor=FF4500&style=flat"/></a>
-  <a href="https://discord.com/users/1486064432760094722"><img height="30" src="https://img.shields.io/badge/nubplayz007-161b22?logo=discord&logoColor=white&labelColor=5865F2&style=flat"/></a>
+
 </p>
 
 
